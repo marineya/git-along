@@ -2,58 +2,111 @@
 
 FICHIER_HTML="$1"
 
-echo -e "
-<!DOCTYPE html>
-<html>
+echo -e "<!DOCTYPE html>
+<html lang="fr">
   <head>
     <meta charset="utf-8">
+    <title>QUi sommes-nous ?</title>
 
-
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
   </head>
   <body>
 
-		<center>
-		<h1 class="is-size-1">
-		<span class="has-background-info-light">Qui sommes-nous?
-		</span>
-		</h1>
 
-		</center>
+  <center>
+<h1 class=titre>Qui sommes-nous ?</h1>
 
-			<p>Nous sommes tous les trois étudiants en Master 1 Traitement Automatique des Langues (TAL)</p>
+ </center>
 
+			<p class=paragraphe>Dans le cadre du cours de Projet-Programmation-Encadré, nous avons formé un groupe de trois étudiants issus de facultés différentes. Nous sommes tous les trois étudiants en Master 1 Traitement Automatique des Langues (TAL) :</p>
 
-			<h2>Etudiant de Inalco :</h2>
-			<p>
-			<span class="has-background-link-light">
-			Pham Nguyen Gia Loc
-			</span>
-			</p>
-					<img src="images/weitor.jpg"
-					alt="weitor"
-					width="250"
-					height="250"/>
+    <div class="contenu">
+        <div class="un">
+            <div class="fac">Étudiant de Inalco</div>
+				<img class="image" src="images/weitor.jpg" alt="image">
+					<div class="nom">Pham Nguyen Gia Loc</div>
+	</div>
 
+        <div class="un">
+            <div class="fac">Étudiante de Nanterre</div>
+				<img class="image" src="images/annabelle.png" alt="image">
+					<div class="nom">Lokutshu Annabelle</div>
+        </div>
 
-
-			<h2>Etudiant de Paris Nanterre :</h2>
-			<p>
-			<span class="has-background-link-light">
-			Annabelle Lokutshu
-			</span>
-			</p>
+        <div class="un">
+            <div class="fac">Étudiante de Sorbonne Nouvelle</div>
+				<img class="image" src="images/mm.jpg" alt="image">
+					<div class="nom">Yang Marine</div>
+        </div>
+    </div>
+</div>
 
 
+<style>
+		.contenu {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			gap: 40px;
+			margin: 40px auto;
+			padding: 40px;
+			flex-wrap: wrap;
+			background-color: white;
+		}
 
-			<h2>Etudiant de Paris Sorbonne Nouvelle :</h2>
-			<p>
-			Marine Yang
-			</span>
-			</p>
-					<img src="images/image.jpg"
-					alt="marine"
-					width="250"
-					height="250"/>
+		.un {
+			text-align: center;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			font-family: has-text-weight-extrabold;
+			}
 
-				</body>" > $FICHIER_HTML
+		.fac {
+			font-size: 16px;
+			margin-bottom: 15px;
+			font-weight: bolder;
+			text-decoration: underline;
+			}
+
+		.image {
+			width: 150px;
+			border-radius: 5px;
+			border-width: 5px;
+			border-style: solid;
+			border-color: darkblue;
+			margin: auto;
+			}
+
+		.nom {
+			font-size: 16px;
+		}
+
+		  .titre {
+				color: darkblue;
+				background-color: white;
+				display: inline-block;
+				padding: 15px 150px;
+				border-radius: 8px;
+				}
+
+
+		.paragraphe {
+				color: darkblue
+					}
+
+
+		body {
+			background-color: #e6f2ff;
+			}
+
+</style>
+
+	</body>
+	</html>" > $FICHIER_HTML
+
+#sources :
+#https://stackoverflow.com/questions/48142309/html-how-can-i-get-a-full-bottom-border-of-an-image-where-i-can-put-text-in
+#https://blog.hubspot.fr/website/couleur-texte-html
+#https://developer.mozilla.org/fr/docs/Web/CSS/Reference/Properties/font-weight
+
+#excécuter : ./htmlpresentation.sh fichier.html
