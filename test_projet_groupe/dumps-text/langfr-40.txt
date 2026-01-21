@@ -1,0 +1,247 @@
+   #initiationphoto.com » Flux initiationphoto.com » Flux des commentaires
+   initiationphoto.com » Que sont la taille, la définition, le poids et la
+   résolution d’une photo Flux des commentaires oEmbed (JSON) oEmbed (XML)
+   JSON
+
+   Rechercher ____________________ (BUTTON)
+
+   CONNEXION
+   € 0,00 0 Panier
+
+     * ACCUEIL
+     * BLOG
+     * SE FORMER
+          + FORMATIONS
+          + COURS PHOTO
+          + ATELIERS PRATIQUES
+          + ATELIERS HEBDOMADAIRES
+          + STAGES PHOTO
+               o STAGE PHOTO AU LUXEMBOURG
+               o STAGE PHOTO À LA CÔTE D’OPALE
+          + ACCOMPAGNEMENT PERSO
+          + PRODUITS NUMÉRIQUES
+          + BONS CADEAUX
+     * À PROPOS
+     * CONTACT
+
+     * ACCUEIL
+     * BLOG
+     * SE FORMER
+          + FORMATIONS
+          + COURS PHOTO
+          + ATELIERS PRATIQUES
+          + ATELIERS HEBDOMADAIRES
+          + STAGES PHOTO
+               o STAGE PHOTO AU LUXEMBOURG
+               o STAGE PHOTO À LA CÔTE D’OPALE
+          + ACCOMPAGNEMENT PERSO
+          + PRODUITS NUMÉRIQUES
+          + BONS CADEAUX
+     * À PROPOS
+     * CONTACT
+
+   COMMENCEZ ICI
+
+Que sont la taille, la définition, le poids et la résolution d’une photo
+
+     * Bases
+
+   Une image possède un grand nombre de caractéristiques utiles à son
+   utilisation. Que vous ayez besoin de déterminer la taille de vos cartes
+   mémoires avant l’achat et l’espace disponible à la prise de vue. Ou que
+   ce soit pour décider de la taille maximale du format d’impression que
+   vous pouvez réaliser à partir de votre photo numérique, cet article va
+   vous éclairer. En effet, toute photo numérique a une définition, un
+   poids et une résolution, de précieuses informations pour tout
+   photographe souhaitant utiliser ses images après la prise de vue. Je
+   vous propose de voir ensemble en détail chacune de ces notions.
+
+Taille et définition d’une image
+
+   La notion de taille s’utilise essentiellement pour une image physique
+   et imprimée, un tirage, un cadre alors que la notion de définition est
+   dédiée à l’image numérique. Les photos papier peuvent avoir différentes
+   tailles, en centimètres, dont les plus courantes 10×15, 20×30, 40×50,…
+   mais tout est possible. Par contre, les images numériques elles, ont
+   une définition. Celles-ci sont de fait « définies » par le nombre de
+   pixels du grand côté multiplié par le nombre de pixels du petit côté.
+
+   Par exemple, comme l’image ci-dessous le montre, si vous avez une photo
+   de 6000px de large par 4000px de haut, on dit que sa définition est de
+   6000 x 4000px ou de 24 000 000px, soit 24 millions de pixels ou 24MP.
+   La définition correspond en général à la taille du capteur si la photo
+   n’a pas été recadrée. C’était d’ailleurs souvent ce sur quoi les
+   vendeurs appuyaient pour nous convaincre d’acheter tel ou tel appareil
+   photo. Si l’image est recadrée, vous pourriez avoir pour une photo une
+   résolution de 12 000 000px, alors qu’elle a été prise avec ce même
+   capteur de 24MP. En effet, il suffit que vous ayez recadré cette image
+   à 4000px par 3000px en post-traitement. Dans ce cas, sa résolution ne
+   sera plus que de 12MP.
+
+Le poids d’une image
+
+   Son poids correspond à la mémoire ou l’espace qu’elle prendra sur votre
+   support de stockage. C’est-à-dire la carte de votre appareil photo, une
+   clé USB ou un disque dur. Mais comment connaître le poids d’une photo ?
+   C’est assez simple… Je vous explique ça sans trop rentrer dans les
+   détails techniques. Comme vous le savez sans doute déjà, une photo
+   numérique est composée de pixels. Les pixels sont ces points de l’image
+   qui contiennent un certain nombre d’information appelés octets et qui
+   sont codés en binaire (1 et 0). Ces informations sont basées sur la
+   lumière, les couleurs,… Du coup, plus la définition est importante,
+   plus il y a de pixels et plus le fichier généré sera lourd.
+
+   En général, le mode de codage le plus utilisé est le Rouge-Vert-Bleu
+   (RVB), ce qui signifie que les pixels sont codés sur trois octets. Donc
+   pour connaître le poids brut théorique d’une photo, on multiplie sa
+   définition par 3. Par exemple : si on prend une photo de 24 000 000px
+   (capteur de 24MP), en la multipliant par 3, elle aurait un poids brut
+   théorique (maximal) de 72Mo (prononcé MégaOctets). Ce poids concerne
+   évidemment un fichier brut (RAW), qui n’est absolument pas compressé.
+   Une fois traitée et exportée en JPEG, la photo sera plus ou moins
+   compressée et donc plus légère.
+
+Et pour l’impression
+
+   Lorsque l’on cherche à imprimer ses photos, on parlera de résolution.
+   La résolution est une information qui est uniquement utilisée lors de
+   l’impression des images numériques. En effet, la résolution permet de
+   déterminer la taille maximale de l’image « imprimée » à partir de la
+   définition de l’image numérique.
+
+   La résolution, c’est la densité de pixels linéaire, soit un nombre de
+   points sur une longueur donnée de l’image. La résolution d’une image
+   est donc exprimée en « Pixels Per Inch » (PPI) ou « Pixels Par Pouce »
+   (PPP) en français. Ce qui veut dire, que plus il y aura de Pixels Par
+   Pouce dans une image, plus il y aura d’information. Et plus celle-ci
+   sera nette, précise et riche en détails. Il y a aussi les « Dots Per
+   Inch » (DPI). Ceux-ci concernent uniquement l’imprimante puisqu’il
+   s’agit du nombre de points d’encre envoyés par celle-ci lors de
+   l’impression et qui déterminera également la netteté et les détails de
+   l’image papier. J’en parlerai dans un autre article.
+
+Petit calcul
+
+   Il existe un calcul simple pour connaître la taille maximale de
+   l’impression en fonction de la définition d’une photo numérique. Si une
+   photo de très bonne qualité suffit, on divise sa définition par 30. Si
+   vous préférez viser la haute définition (HD), il faut diviser par 60.
+   En divisant le nombre de pixels des côtés de vos images, vous obtenez
+   la dimension maximale en centimètres. Comme le montre l’exemple
+   ci-dessous.
+
+   Selon qu’on souhaite une image de bonne qualité ou en haute définition,
+   on divise la définition de l’image par 30 ou 60.
+
+   Souvent on recommande d’utiliser 300ppp mais il a été admis que 250ppp
+   suffisent pour une impression de qualité. D’ailleurs, si le tirage est
+   prévu pour être regarder de plus loin (au moins 1 mètre), 150ppp seront
+   suffisants. Notez également que la résolution d’une image n’a aucun
+   impact sur le poids du fichier.
+
+   En espérant que cet article est clair et que ces trois notions n’auront
+   plus de secret pour vous. Et qu’il vous donnera l’envie de développer
+   vos photos pour les rendre vivantes 😀
+   TÉLÉCHARGER L’ARTICLE EN PDF
+
+   Si vous avez aimé l'article, vous êtes libre de le partager...
+
+     * Bases
+
+CES ARTICLES POURRAIENT VOUS INTÉRESSER
+
+   Astuce
+
+10 Techniques de composition pour des photos de paysage stupéfiantes
+
+   Dans cet article, je vais partager 10 techniques de composition simples
+   de photographie de paysage pour que vous puissiez commencer à créer de
+   beaux paysages équilibrés, fluides et dynamiques. Vous allez surtout
+   découvrir : Donc, si vous êtes prêt à
+   Si vous avez aimé l'article, vous êtes libre de le partager...
+   3
+   Partages
+   LIRE L'ARTICLE »
+
+   Technique
+
+Découvrir la Pose Longue en photographie. Tout savoir sur cette pratique
+(technique, matériel, astuces)
+
+   Ces derniers mois, j’ai partagé beaucoup d’astuces généralistes sur les
+   bases de la photo et sur la composition. Pourtant, j’ai noté que
+   beaucoup des lecteurs de mon blog avaient parfois des pratiques plus
+   spécifiques. Je me suis dit que ça
+   Si vous avez aimé l'article, vous êtes libre de le partager...
+   LIRE L'ARTICLE »
+
+   Argentique
+
+Les principaux types d’appareils photo argentiques – formats, visées,
+avantages et inconvénients
+
+   Comme je l’ai fait pour les appareils photo numériques, dans mon
+   précédent article, je vais vous détailler les principaux types
+   d’appareils photo argentiques. Pour vous aider à y voir plus clair dans
+   un éventuel choix ou une acquisition à venir.
+   Si vous avez aimé l'article, vous êtes libre de le partager...
+   2
+   Partages
+   LIRE L'ARTICLE »
+
+Laisser un commentaire Effacer la réponse
+
+
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Nom * ______________________________
+
+   E-mail * ______________________________
+
+   Site web ______________________________
+
+   [ ] Enregistrer mon nom, mon e-mail et mon site dans le navigateur pour
+   mon prochain commentaire.
+
+   Laisser un commentaire
+
+   Δ
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   RECEVOIR MON GUIDE GRATUIT
+
+   Vous souhaitez commencer à apprendre la photographie en découvrant
+   rapidement les essentiels ? Ce guide est fait pour vous…
+   Vous y trouverez tout ce qu’il faut pour bien démarrer (choix du
+   matériel, notions élémentaires, principes de composition,…)
+   TÉLÉCHARGER MON GUIDE
+
+   ACCUEIL
+   BLOG
+   COMMENCEZ ICI
+   FORMATIONS
+   À PROPOS
+   CONTACT
+
+   Florent Letertre Photography
+
+   Paiement sécurisé
+
+   Conditions Générales  |  Confidentialité  |  Plan du Site
+   2017-2026 © intiationphoto.com | Tous droits réservés.
+   Facebook-f Instagram Pinterest Youtube
+
+   error: Tout le contenu de ce site est protégé par le droit d'auteur !!!
+   © initiationphoto.com

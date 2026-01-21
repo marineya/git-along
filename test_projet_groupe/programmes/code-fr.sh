@@ -10,7 +10,6 @@ FICHIER_URLS=$1
 FICHIER_TSV=$2
 FICHIER_HTML=$3
 
-
 lineno=1
 
 echo "<html>
@@ -60,5 +59,5 @@ echo -e "</table>
 	</body>
 </html>" >> "$FICHIER_HTML"
 
-#excécuter avec : ./code-fr.sh ../tableaux/fr.tsv ../tableaux/fr.html
+#excécuter avec : ./code-fr.sh ../tableaux/langfr.tsv ../tableaux/langfr.html
 

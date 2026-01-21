@@ -1,0 +1,105 @@
+<head>
+    <meta charset="utf-8" />
+    <title>Page nuage de mots</title>
+    <style>
+        /* Style général de la page */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        /* Navigation */
+        nav {
+            background-color: #4a90e2;
+            padding: 10px 20px;
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        .dropdown {
+            position: relative;
+        }
+
+        .dropdown-menu {
+            display: none;
+            position: absolute;
+            background-color: #4a90e2;
+            top: 30px;
+            left: 0;
+            padding: 5px 0;
+            border-radius: 4px;
+        }
+
+        .dropdown:hover .dropdown-menu {
+            display: block;
+        }
+
+        .dropdown-menu a {
+            display: block;
+            padding: 5px 15px;
+            color: white;
+        }
+
+        /* Section texte et images */
+        .text-box {
+            max-width: 800px;
+            margin: 30px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+        }
+
+        .text-box h2, .text-box h4 {
+            text-align: center;
+            color: #4a90e2;
+        }
+
+        .text-box p, .text-box ol {
+            text-align: justify;
+        }
+
+        /* Images des nuages */
+        .text-box img {
+            display: block;
+            max-width: 300px; /* Taille uniforme */
+            width: 100%;
+            height: auto;
+            margin: 15px auto; /* Centrer */
+            border-radius: 10px;
+            box-shadow: 0px 2px 8px rgba(0,0,0,0.2);
+        }
+
+        /* Bouton */
+        .hero-btn {
+            display: inline-block;
+            text-decoration: none;
+            background-color: #4a90e2;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-align: center;
+            margin: 20px auto;
+            font-weight: bold;
+        }
+
+        .hero-btn:hover {
+            background-color: #357ABD;
+        }
+    </style>
+</head>
